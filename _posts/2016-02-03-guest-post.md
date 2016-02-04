@@ -1,6 +1,6 @@
 ---
 layout: post
-title: This is a guest post!
+title: Disclaimer! This is not my post. Please dismiss!!!!
 ---
 
-The guest is expressed by the nice view and the fun we are having.
+I do not approve the guest's ideas!!!
